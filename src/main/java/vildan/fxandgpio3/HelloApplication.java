@@ -15,5 +15,6 @@ public class HelloApplication extends Application {
         stage.setTitle("BS");
         stage.setScene(scene);
         stage.show();
+        // HAMDOLSUN İLK COMMİT ...
     }
 }
